@@ -1,0 +1,57 @@
+[
+    {
+        "healthInsCost": 100.0,
+        "name": "Rose Diaz",
+        "hours": 30.5,
+        "rate": 25.0,
+        "hireDate": {
+            "month": 2,
+            "day": 4,
+            "year": 2022
+        }
+    },
+    {
+        "healthInsCost": 0.0,
+        "name": "Mateo Lopez",
+        "hours": 20.5,
+        "rate": 15.5,
+        "hireDate": {
+            "month": 2,
+            "day": 11,
+            "year": 2022
+        }
+    },
+    {
+        "healthInsCost": 150.0,
+        "name": "Inaya Ali",
+        "hours": 35.5,
+        "rate": 30.0,
+        "hireDate": {
+            "month": 1,
+            "day": 15,
+            "year": 2022
+        }
+    },
+    {
+        "healthInsCost": 0.0,
+        "name": "John Doe",
+        "hours": 25.0,
+        "rate": 10.75,
+        "hireDate": {
+            "month": 2,
+            "day": 10,
+            "year": 2022
+        }
+    },
+    {
+        "healthInsCost": 50.0,
+        "name": "Jane Smith",
+        "hours": 40.0,
+        "rate": 20.5,
+        "hireDate": {
+            "month": 1,
+            "day": 20,
+            "year": 2022
+        }
+    }
+]
