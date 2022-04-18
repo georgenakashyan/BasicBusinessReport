@@ -8,7 +8,7 @@ import java.io.IOException;
 
 /**
  * JavaFX App
- * GeorgeN
+ * Gevoooo
  */
 public class App extends Application {
 
