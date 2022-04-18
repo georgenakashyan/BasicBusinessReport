@@ -1,5 +1,3 @@
-package com.georgenakashyan.lab1.homework3;
-
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.reflect.TypeToken;
@@ -18,7 +16,7 @@ import javafx.stage.FileChooser;
 
 /**
  *
- * @author George Nakashyan
+ * @author Gevoooo
  */
 public class PrimaryController {
 
