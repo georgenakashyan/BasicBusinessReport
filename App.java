@@ -1,5 +1,3 @@
-package com.georgenakashyan.lab1.homework3;
-
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
@@ -10,6 +8,7 @@ import java.io.IOException;
 
 /**
  * JavaFX App
+ * GeorgeN
  */
 public class App extends Application {
 
@@ -18,7 +17,7 @@ public class App extends Application {
     @Override
     public void start(Stage stage) throws IOException {
         scene = new Scene(loadFXML("primary"), 640, 480);
-        stage.setTitle("CSC211 - George Nakashyan - Homework3");
+        stage.setTitle("Worker Report");
         stage.setScene(scene);
         stage.show();
     }
