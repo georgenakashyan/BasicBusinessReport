@@ -1,3 +1,3 @@
 # BasicBusinessReport
 
-Just a basic business reporting gui that can import/export JSON files of worker information and present it on a GUI.
+Ongoing in-class project which utilizes JSON to parse worker information, organize and view reports to a GUI, and format/export worker info to files.
